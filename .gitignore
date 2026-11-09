@@ -1,0 +1,4 @@
+*.exe
+*.o
+erro_gcc.txt
+.vscode/
